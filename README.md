@@ -4,4 +4,4 @@ Repositório com exercícios, atividades e projetos desenvolvidos durante o curs
 
 O objetivo é documentar minha evolução prática na área de dados, com foco em resolução de problemas reais: limpeza de dados, tratamento de valores ausentes, agregações, transformações e geração de insights a partir de datasets diversos.
 
-Tecnologias: Python · Pandas · NumPy · Google colab
+Tecnologias: Python · Pandas · NumPy · Seaborn · Matplotlib · Google colab
